@@ -4,7 +4,7 @@
   
 import re
   
-h = open('moneyIOweM_D.txt', 'r') 
+h = open('tabDetails.txt', 'r') 
   
 # Reading from the file 
 content = h.readlines() 

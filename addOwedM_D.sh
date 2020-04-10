@@ -3,7 +3,5 @@
       read ADDNUMBER
 	echo Comment?
 	read COMMENT
-      	echo "$ADDNUMBER - $COMMENT">>moneyIOweM_D.txt
-python total.py
-source ../.~bash_aliases
-gupdate
+      	echo "$ADDNUMBER - $COMMENT">>tabDetails.txt
+python totalCalculator.py
